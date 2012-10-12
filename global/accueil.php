@@ -1,0 +1,1 @@
+<h2>Page d'accueil</h2><p>Bienvenue sur la page d'exemple !<br />(vide)</p>

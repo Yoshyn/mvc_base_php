@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues
+END
+connexion_ok.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/connexion_ok.php
+END
+erreur_non_connecte.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/erreur_non_connecte.php
+END
+erreur_deja_connect.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/erreur_deja_connect.php
+END
+deconnexion_ok.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/deconnexion_ok.php
+END
+form_connexion.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/form_connexion.php
+END
+connexion_erreur.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/connexion_erreur.php
+END
+gestionAdministrateur.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/trash/!svn/ver/4/baseWebsiteMVC/modules/administration/vues/gestionAdministrateur.php
+END
